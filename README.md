@@ -28,10 +28,10 @@ Welcome to my **LeetCode Daily Challenge** repository! 🎯 I am committed to so
 This repository is for personal growth and tracking my progress. If you have suggestions for improving my solutions or approaches, feel free to fork the repo, open issues, or submit pull requests. Let's learn together!
 
 ## 🏆 Milestones
-- **First Week Streak** ✅
-- **One Month Streak** 🟩
-- **50 Problems Solved** 🟨
-- **100 Problems Solved** 🟦
+- **1 Problems Solved** ✅
+- **50 Problems Solved** 🟩
+- **100 Problems Solved** 
+- **200 Problems Solved** 
 
 ## 📬 Connect with Me
 - [LeetCode Profile](https://leetcode.com/u/iayush2102)
